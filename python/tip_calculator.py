@@ -16,4 +16,4 @@ else:
   print(f'\nThe tip is: {tip:.2f}') # :.2f ensures the output has exactly two digits after the decimal — ideal for money formatting
   print(f"The total bill is: {total_bill:.2f}")
 
-  print("\nThank you for using de tip calculator!\n")
+  print("\nThank you for using de tip calculator!\n") 
